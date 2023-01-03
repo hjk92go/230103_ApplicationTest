@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hjk92go/230103_ApplicationTest/static/css/main.e5a2865f.css",
+    "main.js": "/hjk92go/230103_ApplicationTest/static/js/main.ba0bf6e5.js",
+    "static/js/787.6adf1bf8.chunk.js": "/hjk92go/230103_ApplicationTest/static/js/787.6adf1bf8.chunk.js",
+    "static/media/배경.jpg": "/hjk92go/230103_ApplicationTest/static/media/배경.b264698549fa3edea46e.jpg",
+    "static/media/옷3.png": "/hjk92go/230103_ApplicationTest/static/media/옷3.d11ccfcca5c9a5c1247b.png",
+    "static/media/옷2.png": "/hjk92go/230103_ApplicationTest/static/media/옷2.04918c7e620fa80d799f.png",
+    "static/media/옷1.png": "/hjk92go/230103_ApplicationTest/static/media/옷1.1f941c4f58f481520d27.png",
+    "index.html": "/hjk92go/230103_ApplicationTest/index.html",
+    "main.e5a2865f.css.map": "/hjk92go/230103_ApplicationTest/static/css/main.e5a2865f.css.map",
+    "main.ba0bf6e5.js.map": "/hjk92go/230103_ApplicationTest/static/js/main.ba0bf6e5.js.map",
+    "787.6adf1bf8.chunk.js.map": "/hjk92go/230103_ApplicationTest/static/js/787.6adf1bf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a2865f.css",
+    "static/js/main.ba0bf6e5.js"
+  ]
+}

@@ -1,0 +1,26 @@
+.imgFile{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgFile img{
+    height: 300px;
+    width: 270px;
+}
+
+.itemName{
+    text-align: center;
+}
+
+.backgroundItem{
+    height: 350px;
+    width: 100vw;
+}
+
+.itemList{
+    margin-top: 100px;
+}
+
+.moreLink{
+    margin-left: 300px;
+}

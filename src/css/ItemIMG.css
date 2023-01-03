@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'SF_HambakSnow';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_HambakSnow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
 .imgFile{
     display: flex;
     justify-content: space-evenly;
@@ -10,6 +19,9 @@
 
 .itemName{
     text-align: center;
+    height: 50px;
+    font-family: 'SF_HambakSnow';
+    font-size: large;
 }
 
 .backgroundItem{
@@ -22,5 +34,13 @@
 }
 
 .moreLink{
-    margin-left: 300px;
+    padding: 90px;
+    font-family: 'SF_HambakSnow';
+    font-size: larger;
 }
+
+.imgPiece{
+    margin-top: 30px;
+
+}
+

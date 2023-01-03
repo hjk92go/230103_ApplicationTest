@@ -12,11 +12,11 @@ const ItemIMG = () => {
     return ( 
         <div className='itemList'>
             <a className="moreLink" href=''>더보기</a>
-            <div className="imgFile">
+            <div className="imgFile" >
                 {
                     itemArray.map((img,index) => (
                         <div key={index}>
-                        <img src={require(`../img/${img.img}`)} alt="" />
+                        <img className='imgPiece' src={require(`../img/${img.img}`)} alt="" />
                         <p className='itemName'>{img.id}</p>
                         </div>    
                     ))
